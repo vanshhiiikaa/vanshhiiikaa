@@ -1,7 +1,7 @@
 #  vanshika
 
 #  About Me:
-👨‍💻 Student developer passionate about programming and technology. I enjoy building projects, solving problems, and continuously improving my development skills.<br>Skills:<br>🐍 Python<br>🧠 Problem Solving<br>📚 Learning Data Structures<br>💻 Git & GitHub
+👨‍💻 Student developer passionate about programming and technology. I enjoy building projects, solving problems, and continuously improving my development skills.<br>Skills:<br>🐍 Python<br>🧠 SQL<br>📚 Learning Data Structures<br>💻 Git & GitHub
 
 
 ## 🌐 Socials:
