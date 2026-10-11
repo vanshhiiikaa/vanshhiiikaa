@@ -18,7 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=vanshhiiikaa&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vanshhiiikaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Shopping-Cart](https://img.shields.io/badge/Shopping--Cart-181717?logo=github&logoColor=white)](https://github.com/vanshhiiikaa/Shopping-Cart)
 
 ---
 [![](https://komarev.com/ghpvc/?username=vanshhiiikaa&icon=0&color=0e75b6)](https://visitcount.itsvg.in)
