@@ -13,6 +13,11 @@
 ![TiDB](https://img.shields.io/badge/TiDB-%2300ADD8.svg?style=plastic&logo=tidb&logoColor=white)
 ![Minimax](https://img.shields.io/badge/Minimax-%237159FF.svg?style=plastic)
 ![Seaborn](https://img.shields.io/badge/seaborn-%231A6A96.svg?style=plastic&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=plastic&logo=power-bi&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-%23DD0031.svg?style=plastic&logo=swagger&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-%233399FF.svg?style=plastic)
+![Open-Meteo](https://img.shields.io/badge/Open--Meteo-%2300B4D8.svg?style=plastic)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=vanshhiiikaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=vanshhiiikaa&theme=dark&hide_border=false)<br/>
