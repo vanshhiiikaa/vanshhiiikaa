@@ -23,9 +23,6 @@
 ![](https://streak-stats.demolab.com/?user=vanshhiiikaa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vanshhiiikaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vanshhiiikaa&theme=dark&no-frame=false&no-bg=true&margin-w=4&column=4)
-
 ---
 ### 🔝 Top Contributed Repo
 [![Shopping-Cart](https://img.shields.io/badge/Shopping--Cart-181717?logo=github&logoColor=white)](https://github.com/vanshhiiikaa/Shopping-Cart)
